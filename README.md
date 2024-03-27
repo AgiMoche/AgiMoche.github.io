@@ -1,2 +1,2 @@
-## Link to Simple Website:
-https://agimoche.github.io/
+## Link to GitHub page:
+https://github.com/AgiMoche
