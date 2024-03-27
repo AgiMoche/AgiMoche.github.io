@@ -1,1 +1,1 @@
-https://AgiMoche.github.io.
+https://AgiMoche.github.io
